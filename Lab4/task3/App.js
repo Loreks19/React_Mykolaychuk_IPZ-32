@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import Counter from "./Counter.js";
+import Counter from "./Counter";
 import TextInput from "./TextInput";
 
 function App() {
